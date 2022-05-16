@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/vckyou/GeezProjects"><img src="https://telegra.ph/file/8e256cb133087b060e288.png" alt="Geez Projects" width=240px></a>
+   <a href="https://github.com/sensianhermes/SENSI-USERBOT"><img src="https://telegra.ph/file/8e256cb133087b060e288.png" alt="Geez Projects" width=240px></a>
    <br>
    <br>
 </p>
@@ -15,7 +15,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 Selamat Menikmati :D
 ```
 
-## GeezProjects Bot
+## SENSI USERBOT Bot
 
 [![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
 
@@ -38,8 +38,8 @@ Selamat Menikmati :D
 
 ### Tutorial Deploy To VPS
 
--  ( `git clone https://github.com/vckyou/GeezProjects` )
--  ( `cd GeezProjects` )
+-  ( `git clone https://github.com/sensianhermes/SENSI-USERBOT` )
+-  ( `cd GeezProject` )
 -  ( `pip3 install -r requirements.txt` )
 -  ( `mv sample_config.env config.env` )
 -  edit config.env Anda dan isi VARS menggunakan ( `nano config.env` ) `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori GeezProjects
