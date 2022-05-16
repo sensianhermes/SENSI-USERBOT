@@ -1,9 +1,9 @@
 {
-  "name": "Geez Userbot",
-  "description": "[GeezUserbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "name": "SENSI USERBOT",
+  "description": "[SENSIUSERBOT] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/02b3dbeb4df30582f0d66.jp",
-  "keywords": ["telegram", "userbot", "geezprojects", "modular", "python"],
-  "repository": "https://github.com/vckyou/GeezProjects",
+  "keywords": ["telegram", "userbot", "kata2in", "modular", "python"],
+  "repository": "https://github.com/sensianhermes/SENSI-USERBOT",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -19,7 +19,7 @@
       "required": false
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di Grup » https://t.me/GeezSupport » Lalu ketik /get string",
+      "description": "Dapatkan String Session di Grup » https://t.me/virtualizem » Lalu ketik /get string",
       "required": true
     },
     "HEROKU_APP_NAME": {
